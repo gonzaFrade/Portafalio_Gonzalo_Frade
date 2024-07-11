@@ -127,6 +127,10 @@ header {
     height: 550px; 
 }
 
+section{
+    height: 80vh;
+}
+
 /*Sobre mi*/
 
 .section__sobreMI {
@@ -187,6 +191,11 @@ header {
 
 .info {
     text-align: center;
+}
+
+.info a{
+    text-decoration: none;
+    color: white;
 }
 
 .info h5, .info p {
